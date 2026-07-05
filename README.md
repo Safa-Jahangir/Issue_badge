@@ -1,1 +1,1 @@
-# Issue_badge
+# Badges
