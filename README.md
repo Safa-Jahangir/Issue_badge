@@ -1,3 +1,3 @@
 # Badges
 
-## Achievements of badges
+## Achievements
